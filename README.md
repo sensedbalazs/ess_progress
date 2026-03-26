@@ -329,3 +329,11 @@ Week 12 — March 16–22, 2026
 	•	RF IPMI (Figma → Phoebus)
 	•	IonSource Interlock sessions
 	•	OPI workflow refinement
+
+⸻
+
+Week 13 — March 23–29, 2026
+	•	ISrc: Interlock System Overview (w/ Harald & Marten)
+	•	Instruments: Beamline OPI Mockup (new)
+	•	Cryo: Valvebox screen review w/ Nishanthi
+	•	IonSource amendments
