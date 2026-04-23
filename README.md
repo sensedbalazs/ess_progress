@@ -328,14 +328,54 @@ Week 11 — March 9–15, 2026
 ⸻
 
 Week 12 — March 16–22, 2026
+
 	•	RF IPMI (Figma → Phoebus)
+
 	•	IonSource Interlock sessions
+	
 	•	OPI workflow refinement
 
 ⸻
 
 Week 13 — March 23–29, 2026
-	•	ISrc: Interlock System Overview (w/ Harald & Marten)
-	•	Instruments: Beamline OPI Mockup (new)
-	•	Cryo: Valvebox screen review w/ Nishanthi
-	•	IonSource amendments
+
+	ISrc: Interlock System Overview (w/ Harald & Marten)
+	
+	Instruments: Beamline OPI Mockup (new)
+	
+	Cryo: Valvebox screen review w/ Nishanthi
+	
+	IonSource amendments
+
+Week 14 — March 30–April 5, 2026
+
+	Continued IonSource OPI work and structural improvements.
+
+	Refinement of CRYO Water Manifold OPI.
+	
+	Alignment between Figma mockups and Phoebus implementation.
+
+Week 15 — April 6–12, 2026
+
+	Continued implementation work on IonSource and RF OPIs.
+
+	Ongoing adjustments to components and layout behavior.
+
+	Cross-checking design consistency across systems.
+
+Week 16 — April 13–19, 2026
+
+	Further refinement of IonSource Interlock OPIs.
+
+	Continued CRYO OPI adjustments and improvements.
+
+	Iteration on symbol usage and UI consistency.
+
+Week 17 — April 20–26, 2026 (ongoing)
+
+	Continued IonSource OPI development and refinements.
+
+	Ongoing CRYO and RF OPI consistency work.
+
+	General alignment between design system and implementation.
+
