@@ -378,4 +378,9 @@ Week 17 — April 20–26, 2026 (ongoing)
 	Ongoing CRYO and RF OPI consistency work.
 
 	General alignment between design system and implementation.
+⸻
 
+Week 18 — April 27–May 3, 2026
+	•	CRYO: Fit the Pressure Protection Group into the OPI
+	•	MPS: MPS SIS Screens Updates (w/ Daniele Cosco)
+	•	Instruments: Create Mockup for Beamlines
