@@ -381,104 +381,127 @@ Week 17 — April 20–26, 2026 (ongoing)
 ⸻
 
 Week 18 — April 27–May 3, 2026
-	•	CRYO: Fit the Pressure Protection Group into the OPI
-	•	MPS: MPS SIS Screens Updates (w/ Daniele Cosco)
-	•	Instruments: Create Mockup for Beamlines
 
-⸻
+	CRYO: Fit the Pressure Protection Group into the OPI.
+
+	MPS: MPS SIS Screens Updates (w/ Daniele Cosco).
+
+	Instruments: Create Mockup for Beamlines.
 
 Week 19 — May 4–10, 2026
-	•	Training: Introduction to the ESS Management System
-	•	CRYO: Pressure Protection Group OPI (continued)
-	•	MPS: MPS SIS Screens Updates (w/ Daniele Cosco)
-	•	Instruments: Beamline Mockup (continued)
 
-⸻
+	Training: Introduction to the ESS Management System.
+
+	CRYO: Pressure Protection Group OPI (continued).
+
+	MPS: MPS SIS Screens Updates (w/ Daniele Cosco).
+
+	Instruments: Beamline Mockup (continued).
 
 Week 20 — May 11–17, 2026
-	•	AI Learning session
-	•	MPS: MPS SIS Screens Updates (w/ Daniele Cosco)
-	•	Instruments: Create Mockup for Beamlines
 
-⸻
+	AI Learning session.
+
+	MPS: MPS SIS Screens Updates (w/ Daniele Cosco).
+
+	Instruments: Create Mockup for Beamlines.
 
 Week 21 — May 18–24, 2026
-	•	MPS: MPS SIS Screens Updates (w/ Daniele Cosco)
-	•	Instruments: Create Mockup for Beamlines
 
-⸻
+	MPS: MPS SIS Screens Updates (w/ Daniele Cosco).
+
+	Instruments: Create Mockup for Beamlines.
 
 Week 22 — May 25–31, 2026
-	•	Target: HVAC Safety Card OPIs (new)
-	•	MPS: SIS Optimization
-	•	Instruments: Beamlines OPIs
-	•	OPI support: NSS Helium Recovery System (new)
-	•	Archiver: SVG Viewer UI Consultancy
 
-⸻
+	Target: HVAC Safety Card OPIs (new).
+
+	MPS: SIS Optimization.
+
+	Instruments: Beamlines OPIs.
+
+	OPI support: NSS Helium Recovery System (new).
+
+	Archiver: SVG Viewer UI Consultancy.
 
 Week 23 — June 1–7, 2026
-	•	MPS: SIS Optimization (continued)
-	•	Target: HVAC Safety Card OPIs
-	•	OPI support: NSS Helium Recovery System
-	•	Budapest trip (admin/personal — end of week)
 
-⸻
+	MPS: SIS Optimization (continued).
+
+	Target: HVAC Safety Card OPIs.
+
+	OPI support: NSS Helium Recovery System.
+
+	Budapest trip (admin/personal — end of week).
 
 Week 24 — June 8–14, 2026
-	•	Budapest (admin/personal)
-	•	Returned June 11
 
-⸻
+	Budapest (admin/personal).
+
+	Returned June 11.
 
 Week 25 — June 15–21, 2026
-	•	OPI support: NSS Helium Recovery System
-	•	Archiver: Define Colors for the Archiver
-	•	Admin
 
-⸻
+	OPI support: NSS Helium Recovery System.
+
+	Archiver: Define Colors for the Archiver.
+
+	Admin.
 
 Week 26 — June 22–28, 2026
-	•	Instruments: Beamline Communication restart
-	•	Recurrent Neural Network Test OPI
-	•	Instruments: Beamlines OPI
-	•	INST: Clear-up Meeting
-	•	NSS: Helium Recovery System — UH1 Subpage + Overview .bob files
-	•	Figma Config Conference
 
-⸻
+	Instruments: Beamline Communication restart.
+
+	Recurrent Neural Network Test OPI.
+
+	Instruments: Beamlines OPI.
+
+	INST: Clear-up Meeting.
+
+	NSS: Helium Recovery System — UH1 Subpage + Overview .bob files.
+
+	Figma Config Conference.
 
 Week 27 — June 29–July 5, 2026
-	•	INSTRUMENTS: LOKI Beamline OPIs (started)
-	•	Instruments Beamline: Main, Sub screen, Choppers
-	•	NSS: Handoff to Emilio
 
-⸻
+	INSTRUMENTS: LOKI Beamline OPIs (started).
+
+	Instruments Beamline: Main, Sub screen, Choppers.
+
+	NSS: Handoff to Emilio.
 
 Week 28 — July 6–12, 2026
-	•	Instruments: LoKi Main Overview OPI meeting
-	•	LoKi Main Overview Figma
-	•	LoKi Choppers Subscreen OPI Figma
-	•	LoKi Collimation Subscreen OPI Figma
-	•	Sprint Ceremonies
-	•	Beamlines: Chopper v0.1
-	•	LoKi PSS Subscreen
 
-⸻
+	Instruments: LoKi Main Overview OPI meeting.
+
+	LoKi Main Overview Figma.
+
+	LoKi Choppers Subscreen OPI Figma.
+
+	LoKi Collimation Subscreen OPI Figma.
+
+	Sprint Ceremonies.
+
+	Beamlines: Chopper v0.1.
+
+	LoKi PSS Subscreen.
 
 Week 29–30 — July 13–26, 2026
-	•	Vacation (Budapest)
 
-⸻
+	Vacation (Budapest).
 
 Week 31–32 — July 27–August 9, 2026
-	•	Vacation / personal (Budapest — extended stay)
 
-⸻
+	Vacation / personal (Budapest — extended stay).
 
 Week 33 — August 10–12, 2026 (partial)
-	•	Admin: Back from Vacation
-	•	Sync with Dirk
-	•	Cipher Sync
-	•	Check with José on changes since mid-July
-	•	Re-contact Instruments Beamline team
+
+	Admin: Back from Vacation.
+
+	Sync with Dirk.
+
+	Cipher Sync.
+
+	Check with José on changes since mid-July.
+
+	Re-contact Instruments Beamline team.
