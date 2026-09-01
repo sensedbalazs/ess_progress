@@ -500,8 +500,6 @@ Week 33 — August 10–12, 2026 (partial)
 
 	Sync with Dirk.
 
-	Cipher Sync.
-
 	Check with José on changes since mid-July.
 
 	Re-contact Instruments Beamline team.
@@ -516,4 +514,18 @@ Week 34 — August 17–23, 2026
 
 	EPICS Summer School: Presentation.
 
-	Cipher Sync.
+Week 35 — August 24–30, 2026
+
+	Instruments: Beamline OPIs — Choppers, Collimation.
+
+	Instruments: Beamline OPIs — Vacuum, PSS.
+
+	Admin.
+
+	Instruments: Beamline OPIs — Detectors, Sample Environment (two sessions).
+
+	Monthly Update Zoom Call.
+
+	Instruments: Beamline OPIs — Shutters, Sample Cave.
+
+	Instruments: Beamline OPIs — Motion, Submenu Buttons Check.
