@@ -505,3 +505,15 @@ Week 33 — August 10–12, 2026 (partial)
 	Check with José on changes since mid-July.
 
 	Re-contact Instruments Beamline team.
+
+Week 34 — August 17–23, 2026
+
+	EPICS Summer School: Research & Preparation.
+
+	EPICS Summer School: Collect Before/After Pictures.
+
+	EPICS Summer School: Screenshot ESS Design System.
+
+	EPICS Summer School: Presentation.
+
+	Cipher Sync.
